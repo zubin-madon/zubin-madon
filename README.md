@@ -3,9 +3,9 @@
 ## Hi there 👋
 After drilling oil & gas wells for 14 years, I gave up command of my last offshore oil rig in Feb 2021 and have been coding all day everyday since. I had learnt HTML, C, C++ as part of my Bachelor's in Mechanical Engineering so I was familiar with the basics. In 2021 I started with Python, then moved on to JS, Solidity, React and NextJS.
 
-### Portfolio Highlights with key repos a short summary for each down below:
+### Portfolio Highlights with key Repos a Short Summary for Each:
 
-### 🔭 Stuff I've Built:
+## 🔭 Stuff I've Built:
 ### - Web3/ React/ Next JS/ Solidity:
 
 1. [Geckos AI](https://github.com/zubin-madon/GeckosAI) - A derivative art NFT project created using neural network transfer of Sci-Fi scenes on the Gallactic Geckos (using Python). Using Candy Machine and Metaplex to setup the mint on Solana. With a front-end minting Dapp. *URL: https://geckosAI.online*
@@ -26,12 +26,12 @@ After drilling oil & gas wells for 14 years, I gave up command of my last offsho
 
 4. [Ethereum Block Updater](https://github.com/zubin-madon/Ethereum-Block-Updater) - A Python Flask app that shows details & pending transactions on the last 3 Ethereum blocks mined.
 
-### 🔭 Stuff I'm Currently Working On:
+## 🔭 Stuff I'm Currently Working On:
 - A crypto [wallet-tracker and analysis Dapp](https://github.com/zubin-madon/degenalysis) in Next JS, which will use a combination of web3.js and Moralis.
 - [NFTrees](https://github.com/zubin-madon/NFTrees) - A Python NFT Project which builds beautiful generative trees of various shapes and colours out of all the ERC-721 tokens in a user's wallet. The front-end dapp will be in FastAPI, using Moralis to connect the dapp to the smart contract.
 (🤔 I’m looking for help with fetching the SVG generated on the front-end in order to pass it in a Moralis function and send it to IPFS).
 
-### 📫 How to reach me:
-[Twitter](https://twitter.com/zmadon)
-[Email](mailto:madon.zubin@gmail.com)
+## 📫 How to reach me:
+- [Twitter](https://twitter.com/zmadon)
+- [Email](mailto:madon.zubin@gmail.com)
 
