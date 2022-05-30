@@ -6,7 +6,7 @@ After drilling oil & gas wells for 14 years, I gave up command of my last offsho
 ### Portfolio Highlights with key Repos a Short Summary for Each:
 
 ## 🔭 Stuff I've Built:
-### - Web3/ React/ Next JS/ Solidity:
+### Web3/ React/ Next JS/ Solidity:
 
 1. [Geckos AI](https://github.com/zubin-madon/GeckosAI) - A derivative art NFT project created using neural network transfer of Sci-Fi scenes on the Gallactic Geckos (using Python). Using Candy Machine and Metaplex to setup the mint on Solana. With a front-end minting Dapp. *URL: https://geckosAI.online*
 
@@ -17,7 +17,7 @@ After drilling oil & gas wells for 14 years, I gave up command of my last offsho
 
 4. You will find some Solidity smart contracts scattered in between: [Echigo.sol](https://gist.github.com/zubin-madon/1148e2934956e59bf7c98504f0dac6ea) is a meme reflector token contract with a buy/sell tax of 4%. This token is deployed on the Echelon EVM chain. [NFTrees.sol](https://github.com/zubin-madon/NFTrees/blob/main/contracts/trees_final.sol) is my own ETH NFT project that I am working on. The mint function takes a tokenURI so that each tree that is generated in real time by my Python algo is first uploaded to IPFS via Moralis, and then the IPFS metadata is passed into the mint function.
 
-### - Python Web & Desktop Apps, (plus algos to perform mundane tasks like mass image editing):
+### Python Web & Desktop Apps, (plus algos to perform mundane tasks like mass image editing):
 1. [Ton-Miles Calculator](https://github.com/zubin-madon/Ton-Miles-Manager-for-Oil-Rigs) - A desktop app built in Python Tkinter for the daily calculation of ton-miles accumulated on the drilling line. It is extremely critical to accurately calculate the wear accumulated on the wire rope, with dozens of different parameters involved, because 100's of tons of steel go in and out of the hole at very high speeds and personnel work directly underneath the contraption 24 hours a day. And then slip/cut a section of the line accordingly every few days. If the line snaps the outcome is catastrophic. In my 14 years I did not come across ANY application that is user friendly and has safeguards for human error. 99% of supervisors in the oilfield still use an excel sheet to perform this daily critical task, and then manually enter the results of the calculation in a spreadsheet. My app incorporates all the various parameters involved in daily drilling/tripping operations and has built-in unit conversions which avoid human error that occurs by doing these conversions manually. It auto-saves the day's result in a CSV file.
 
 2. [Potty Punks](https://github.com/zubin-madon/PottyPunksNFT) - Python Pillow algos to modify, mix and match hundreds of different traits to create 10,000 derivatives of crypto punks sitting on pottys. This repo will help you take photoshop layers of any NFT art concept you have and manipulate colours, superimpose layers to create finished pfps, etc.
