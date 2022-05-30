@@ -31,7 +31,13 @@ After drilling oil & gas wells for 14 years, I gave up command of my last offsho
 - [NFTrees](https://github.com/zubin-madon/NFTrees) - A Python NFT Project which builds beautiful generative trees of various shapes and colours out of all the ERC-721 tokens in a user's wallet. The front-end dapp will be in FastAPI, using Moralis to connect the dapp to the smart contract.
 (🤔 I’m looking for help with fetching the SVG generated on the front-end in order to pass it in a Moralis function and send it to IPFS).
 
+## ✍️ Published Articles:
+I'm also a published writer so if you need someone who can code as well as write your content, hit me up.
+- [Areo Magazine](https://areomagazine.com/author/zubin/)
+- [HuffPost UK](https://www.huffingtonpost.co.uk/author/zubin-madon)
+
 ## 📫 How to reach me:
 - [Twitter](https://twitter.com/zmadon)
 - [Email](mailto:madon.zubin@gmail.com)
+
 
