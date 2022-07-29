@@ -30,8 +30,8 @@ After drilling oil & gas wells for 14 years, I gave up command of my last offsho
 
 ## 🔭 Stuff I'm Currently Working On:
 - A crypto [wallet-tracker and analysis Dapp](https://github.com/zubin-madon/degenalysis) in Next JS, which will use a combination of web3.js and Moralis.
-- [NFTrees](https://github.com/zubin-madon/NFTrees) - A Python NFT Project which builds beautiful generative trees of various shapes and colours out of all the ERC-721 tokens in a user's wallet. The front-end dapp will be in FastAPI, using Moralis to connect the dapp to the smart contract.
-(🤔 I’m looking for help with fetching the SVG generated on the front-end in order to pass it in a Moralis function and send it to IPFS).
+- [Bogoshipo](https://bogoshipo.com) A Blockchain Pet Game that is a mix of Tamagotchi and Cryptokitties. Work in progress.
+- [OD Labs Landing Page](https://od-labs.netlify.app) A website entirely built out of mp4 video clips.
 
 ## ✍️ Published Articles:
 I'm also a published writer so if you need someone who can code as well as write your content, hit me up.
