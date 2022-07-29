@@ -12,10 +12,12 @@ After drilling oil & gas wells for 14 years, I gave up command of my last offsho
 
 2. [The Spot NFTs](https://github.com/zubin-madon/spot-nft-dapp) - I'm really proud of this React Dapp I built for **The Spot NFT project on Avalanche**.
 
-3. [SofSafe](https://github.com/zubin-madon/sofsafe), [Echigo](https://github.com/zubin-madon/echigo), [Neural Apes Yacht Club](https://github.com/zubin-madon/nayc), [Proof Of Rug](https://github.com/zubin-madon/ProofOfRug) are a few of many React/ Next JS sites, NFT dapps I have built. 
+3.[Token Trees](https://tokentreesNFT.com) - A Python Dapp that generates a tree out of all the ERC721 tokens in your wallet, that you can mint. The trees come in thousands of variations of size, shape and colour combinations. Contract: [NFTrees.sol](https://github.com/zubin-madon/NFTrees/blob/main/contracts/trees_final.sol)
+
+4. [SofSafe](https://github.com/zubin-madon/sofsafe), [Echigo](https://github.com/zubin-madon/echigo), [Neural Apes Yacht Club](https://github.com/zubin-madon/nayc), [Proof Of Rug](https://github.com/zubin-madon/ProofOfRug) are a few of many React/ Next JS sites, NFT dapps I have built. 
 *URLs:(nayc.online, proofofrug.in, echigo.tech)*
 
-4. You will find some Solidity smart contracts scattered in between: [Echigo.sol](https://gist.github.com/zubin-madon/1148e2934956e59bf7c98504f0dac6ea) is a meme reflector token contract with a buy/sell tax of 4%. This token is deployed on the Echelon EVM chain. [NFTrees.sol](https://github.com/zubin-madon/NFTrees/blob/main/contracts/trees_final.sol) is my own ETH NFT project that I am working on. The mint function takes a tokenURI so that each tree that is generated in real time by my Python algo is first uploaded to IPFS via Moralis, and then the IPFS metadata is passed into the mint function.
+5. You will find some Solidity smart contracts scattered in between: [Echigo.sol](https://gist.github.com/zubin-madon/1148e2934956e59bf7c98504f0dac6ea) is a meme reflector token contract with a buy/sell tax of 4%. This token is deployed on the Echelon EVM chain.
 
 ### Python Web & Desktop Apps, (plus algos to perform mundane tasks like mass image editing):
 1. [Ton-Miles Calculator](https://github.com/zubin-madon/Ton-Miles-Manager-for-Oil-Rigs) - A desktop app built in Python Tkinter for the daily calculation of ton-miles accumulated on the drilling line.
